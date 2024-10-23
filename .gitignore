@@ -1,0 +1,13 @@
+.vscode
+*.o
+*.so
+arcade
+.idea
+build
+.DS_Store
+cmake-build-debug
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+Makefile
+lib
